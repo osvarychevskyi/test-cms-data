@@ -1,0 +1,22 @@
+top:
+  - 01_item
+  - 02_item
+  - 03_item
+items:
+  - 01_item:
+      title: 01_item
+      url: /01_item
+  - 02_item:
+      title: 02_item
+      url: /02_item
+  - 03_item:
+      title: 03_item
+      url: /03_item
+  - 04_item:
+      title: 03_item
+      url: /03_item
+      parent: 01_item
+  - 05_item:
+      title: 03_item
+      url: /03_item
+      parent: 01_item

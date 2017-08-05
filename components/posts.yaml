@@ -1,0 +1,4 @@
+posts:
+  01_post: !!inc/file components/posts/01_post.yaml
+  02_post: !!inc/file components/posts/02_post.yaml
+  03_post: !!inc/file components/posts/03_post.yaml

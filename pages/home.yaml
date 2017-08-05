@@ -1,0 +1,9 @@
+title: Home
+
+header: !!inc/file components/header.yaml
+footer: !!inc/file components/footer.yaml
+
+content: |
+     wef;ihrvtoe heo h
+     wr hoiwrhyor;wh  hw
+     wr ihrth ropbri o i

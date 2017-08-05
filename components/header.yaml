@@ -1,0 +1,5 @@
+
+menu: !!inc/file components/menu.yaml
+
+content: |
+  header content

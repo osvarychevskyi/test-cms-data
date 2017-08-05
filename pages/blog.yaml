@@ -1,0 +1,6 @@
+title: Blog
+
+
+header: !!inc/file components/header.yaml
+footer: !!inc/file components/footer.yaml
+blog: !!inc/file components/posts.yaml
