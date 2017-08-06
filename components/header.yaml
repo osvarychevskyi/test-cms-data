@@ -1,5 +1,6 @@
 
-menu: !!inc/file components/menu.yaml
+menu:
+  $ref: cms://components/menu.yaml
 
 content: |
   header content

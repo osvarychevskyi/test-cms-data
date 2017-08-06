@@ -1,6 +1,9 @@
 title: Blog
 
 
-header: !!inc/file components/header.yaml
-footer: !!inc/file components/footer.yaml
-blog: !!inc/file components/posts.yaml
+header:
+  $ref: cms:// components/header.yaml
+footer:
+  $ref: cms:// components/footer.yaml
+blog:
+  $ref: cms:// components/posts.yaml
