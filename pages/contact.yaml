@@ -1,10 +1,7 @@
 title: Contact Us
 
-components:
-  header:
-    $ref: cms://components/header.yaml
-  footer:
-    $ref: cms://components/footer.yaml
+layout:
+  $ref: cms://pages/layouts/main.yaml
 
 content: |
      Contact Us

@@ -1,5 +1,8 @@
 title: No Include
 
+layout:
+  $ref: cms://pages/layouts/main.yaml
+
 content: |
      wef;ihrvtoe heo h
      wr hoiwrhyor;wh  hw

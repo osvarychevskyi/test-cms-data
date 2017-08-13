@@ -1,0 +1,5 @@
+title: Main Layout
+mainmenu:
+  $ref: cms://menus/main.yaml
+topmenu:
+  $ref: cms://menus/top.yaml

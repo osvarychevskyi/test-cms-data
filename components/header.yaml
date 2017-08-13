@@ -1,6 +1,0 @@
-
-menu:
-  $ref: cms://components/menu.yaml
-
-content: |
-  header content

@@ -1,9 +1,17 @@
 title: Blog
 
+layout:
+  $ref: cms://pages/layouts/main.yaml
 
-header:
-  $ref: cms:// components/header.yaml
-footer:
-  $ref: cms:// components/footer.yaml
-blog:
-  $ref: cms:// components/posts.yaml
+posts:
+  - $ref: cms://components/posts/01_post.yaml
+  - $ref: cms://components/posts/02_post.yaml
+  - $ref: cms://components/posts/03_post.yaml
+  - $ref: cms://components/posts/04_post.yaml
+  - $ref: cms://components/posts/05_post.yaml
+  - $ref: cms://components/posts/06_post.yaml
+  - $ref: cms://components/posts/07_post.yaml
+  - $ref: cms://components/posts/08_post.yaml
+  - $ref: cms://components/posts/09_post.yaml
+  - $ref: cms://components/posts/10_post.yaml
+  - $ref: cms://components/posts/11_post.yaml
