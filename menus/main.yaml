@@ -1,7 +1,3 @@
-top:
-  - 01_item
-  - 02_item
-  - 03_item
 items:
   - 01_item:
       title: 01_item

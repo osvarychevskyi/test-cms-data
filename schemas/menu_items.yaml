@@ -1,0 +1,11 @@
+title: Menu Items
+type: object
+folder: menus/items
+properties:
+  label: { title: Lable, type: string, inputType: text }
+  link: { title: Link, type: string, inputType: text }
+  child: { title: Child, type: array, items: { type: string }, inputType: reference_array, referenceType: menus/items, referenceField: label}
+required: [ label, link ]
+showInList: [ label, link ]
+
+

@@ -1,0 +1,11 @@
+title: Posts
+type: object
+folder: posts
+properties:
+  title: { title: Title, type: string, inputType: text }
+  content: { title: Content, type: string, inputType: reachtext }
+  publishdate: { title: Publish Date, type: string, inputType: date }
+required: [ title, content, publishdate ]
+showInList: [ title, publishdate ]
+
+
